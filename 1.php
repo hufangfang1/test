@@ -1,0 +1,1 @@
+`{"type":"talk","uid":9545421,"voice_topic":"1","status":3,"voice_stream":"","voice_text":" Hello, hello, hello, hello. Hello.","dialog_topic_id":"624"}`
